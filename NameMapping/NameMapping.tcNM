@@ -5318,7 +5318,7 @@
 																	</Property>
 																</Properties>
 															</Child>
-															<Child Name="textboxTxtrate1" Key="{E081915A-76B7-42C4-A79E-3F1DE27926D4}" ExtendedFind="True" ParallelWalk="True">
+															<Child Name="textboxTxtrate1" Key="{E081915A-76B7-42C4-A79E-3F1DE27926D4}" ParallelWalk="True">
 																<TypeInfo Item0="{1FCFA308-F0BE-49FF-B7FE-C6E49A03F02F}" />
 																<Properties>
 																	<Property Name="ObjectType">
@@ -5333,41 +5333,6 @@
 																		<Value PropertyType="0" Value="TextNode" Type="5" />
 																	</Property>
 																</Properties>
-															</Child>
-															<Child Name="panelColMd6" Key="{813B3ABD-F372-493F-8015-642E67720A63}" ParallelWalk="True">
-																<TypeInfo Item0="{48FC8559-C1CE-406E-B70D-88960D0316C3}" />
-																<Properties>
-																	<Property Name="ObjectType">
-																		<Value PropertyType="0" Value="Panel" Type="5" />
-																	</Property>
-																	<Property Name="ObjectIdentifier">
-																		<Value PropertyType="0" Value="0" Type="0" />
-																	</Property>
-																</Properties>
-																<Children>
-																	<Child Name="panelFormGroup" Key="{5D5D2C1A-18F2-4859-8B2F-EAC09A4FA701}" ParallelWalk="True">
-																		<TypeInfo Item0="{48FC8559-C1CE-406E-B70D-88960D0316C3}" />
-																		<Properties>
-																			<Property Name="ObjectType">
-																				<Value PropertyType="0" Value="Panel" Type="5" />
-																			</Property>
-																			<Property Name="ObjectIdentifier">
-																				<Value PropertyType="0" Value="0" Type="0" />
-																			</Property>
-																		</Properties>
-																	</Child>
-																	<Child Name="panelFormGroup2" Key="{EE198818-F859-429C-8BE2-49758408E49C}" ExtendedFind="True" ParallelWalk="True">
-																		<TypeInfo Item0="{48FC8559-C1CE-406E-B70D-88960D0316C3}" />
-																		<Properties>
-																			<Property Name="ObjectType">
-																				<Value PropertyType="0" Value="Panel" Type="5" />
-																			</Property>
-																			<Property Name="ObjectIdentifier">
-																				<Value PropertyType="0" Value="4" Type="0" />
-																			</Property>
-																		</Properties>
-																	</Child>
-																</Children>
 															</Child>
 														</Children>
 													</Child>
@@ -7613,10 +7578,6 @@
 							<Child Name="labelRate" Owner="{03564FF6-3364-4CC9-BBE9-9501C701440F}" />
 							<Child Name="textboxTxtrate1" Owner="{E081915A-76B7-42C4-A79E-3F1DE27926D4}" />
 							<Child Name="textnodeRequiredField" Owner="{473AB237-CAFA-4E5F-B18C-84A6CD3CF27A}" />
-							<Child Name="panelColMd6" Owner="{813B3ABD-F372-493F-8015-642E67720A63}">
-								<Child Name="panelFormGroup" Owner="{5D5D2C1A-18F2-4859-8B2F-EAC09A4FA701}" />
-								<Child Name="panelFormGroup2" Owner="{EE198818-F859-429C-8BE2-49758408E49C}" />
-							</Child>
 						</Child>
 						<Child Name="panelFormGroup4" Owner="{691582BC-6342-45DD-9107-6AFEDFF77275}">
 							<Child Name="labelCategory" Owner="{E6DC2CDC-B779-4268-9C48-45313C3D928F}" />
