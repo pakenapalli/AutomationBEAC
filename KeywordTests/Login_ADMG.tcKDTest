@@ -14,6 +14,9 @@
 		</Data>
 		<Children>
 			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="ReadURL" Unit="ReadURLFromExcel" />
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
 				<Data Description="Runs a script routine." TestName="ReadDataFromExcel" Unit="ReadLoginDataFromExcel" />
 			</Operation>
 			<Operation Type="{98EACF50-FA7B-4595-8EDC-4C0B21157A52}">
